@@ -25,8 +25,8 @@
     ```
 
 4. **Find your login and password to Admin UI.**
-    ![1](https://github.com/user-attachments/assets/8fe52255-96bd-421e-bf56-c3640a36f5fc)
-
+![image](https://github.com/user-attachments/assets/00caa2e5-827e-41c3-94bf-ed628c4f75fa)
+![image](https://github.com/user-attachments/assets/36785e9d-428b-4f0b-abb8-3d8f550fbb36)
 5. **Open browser and login to Admin UI**
     ```sh
     <Public IP address>:943/admin
